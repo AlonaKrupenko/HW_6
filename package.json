@@ -1,0 +1,25 @@
+{
+  "name": "hw_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlonaKrupenko/HW_6.git"
+  },
+  "keywords": [
+    "HW6"
+  ],
+  "author": "Alona Krupenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlonaKrupenko/HW_6/issues"
+  },
+  "homepage": "https://github.com/AlonaKrupenko/HW_6#readme",
+  "dependencies": {
+    "chart.js": "^3.7.1"
+  }
+}
